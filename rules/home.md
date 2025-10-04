@@ -15,8 +15,6 @@ The goal is simple keep the world fair, immersive, and player-driven.
 At its core, **Resilient RP is built by the players, for the players.**  
 Every system, rule, and guideline exists to give you freedom not limit it.
 
----
-
 ## Community Standards
 
 ### Respect & Conduct
@@ -30,7 +28,7 @@ Every system, rule, and guideline exists to give you freedom not limit it.
 - What happens outside the city can still impact it.  
   Harassment, doxxing, or smear campaigns that create a hostile environment will be acted on.
 - We don’t mediate personal disagreements, but we will protect the safety and trust of our players.
-- 
+- No advertisement of other servers within Resilient RP chats, discords, or within the server.
 
 ### Feedback & Accountability
 - Honest feedback is encouraged.  
@@ -45,7 +43,6 @@ Every system, rule, and guideline exists to give you freedom not limit it.
 - If you’re banned, you can appeal through our ticket system.  
   A separate staff member will handle your case for transparency.
 
-
 ### Alts & Ban Evasion
 - Alternate accounts must be disclosed.  
   Evading punishments or spying through alts is a permanent ban.
@@ -57,8 +54,6 @@ Every system, rule, and guideline exists to give you freedom not limit it.
 ### Leave Drama at the Door
 - You don’t have to like everyone, but you do have to act like an adult.  
   Constant negativity, OOC conflict, or drama will not be tolerated.
-
----
 
 ## In-Game Conduct
 
@@ -122,17 +117,13 @@ False harassment claims to avoid IC consequences will result in discipline.
 - Do not interrupt or grief city-wide events unless cleared by staff.  
   Events take planning — respect the effort that goes into them.
 
----
-
 ## Government & Allowlisted Roles
 
-- Government roles must use authority fairly and with story justification.  
+- Government roles must use authority fairly. 
 - Repeatedly targeting groups or individuals OOCly is prohibited.  
 - Don’t sabotage departments because of OOC disagreements.
 - Selling, trading, or giving away job-exclusive items (e.g., PD gear, medical tools) is forbidden (unless cleared by staff).
 - If unsure whether your RP idea is appropriate, open a ticket and ask.
-
----
 
 ## Conflict & Crime Rules
 
@@ -168,8 +159,6 @@ False harassment claims to avoid IC consequences will result in discipline.
   Clearing full inventories without reason is bannable.  
   Mid-fight looting for survival is fine — farming is not.
 
----
-
 ## Injury, Death & Medical RP
 
 ### While Downed
@@ -189,7 +178,6 @@ False harassment claims to avoid IC consequences will result in discipline.
 - Dumping vehicles or people without RP justification is fail RP.
 ### Mental Health RP
 - All serious Mental Health RP requires staff approval
----
 
 ## Restricted & Sensitive Topics
 
@@ -203,24 +191,18 @@ False harassment claims to avoid IC consequences will result in discipline.
 - Do not base stories on real-life trauma or disasters.  
   Topics like suicide, pandemics, or school shootings are off-limits unless explicitly approved by staff and handled responsibly.
 
----
-
 ## Corruption Roleplay
 
 - Corruption RP must remain **grounded and believable**.  
-  Abuse of power for personal gain without consequence is not allowed.
+- Abuse of power for personal gain without consequence is not allowed.
 - If you engage in corruption, accept that it may lead to investigation, arrest, or removal from your role.
 - When in doubt, open a ticket.
-
----
 
 ## Enforcement & Expectations
 - Rules are enforced based on **intent, context, and community impact**, not technical loopholes.  
 - Mistakes happen, genuine mistakes often lead to coaching, not punishment.
 - Repeat, malicious, or community-harming behavior will result in permanent removal.
 - Staff decisions are guided by one principle: **protecting player-driven RP**.
-
----
 
 ## Final Notes
 Resilient RP is a world built on collaboration, creativity, and respect.  
