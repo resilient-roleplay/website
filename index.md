@@ -15,11 +15,11 @@ hero:
       link: /rules/home
 
 features:
-  - title: Rules
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Store
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Apply
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
-
+  - title: <a href="/rules/home">Rules</a>
+    details: Please read over our rules to understand the expectations of playing the server.
+  - title: <a target="_source" href="https://store.resilientrp.net">Store</a>
+    details: Visit our store to see what options we have to expand on your Roleplay. 
+  - title: <a target="_source" href="https://apply.resilientrp.net">Whitelist Applications</a>
+    details: Apply for staff to help contribute to storylines and the servers health.
+  - title: <a target="_source" href="https://apply.resilientrp.net">Staff Applications</a>
+    details: Apply for whitelist to get in and enjoy everything Resilient Roleplay has to offer.

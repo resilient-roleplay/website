@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Resilient Roleplay",
   description: "By the players, for the players.",
   themeConfig: {
+    logo: "public/logo.png",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -15,10 +16,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Home',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Rules', link: '/rules/home' },
         ]
       }
     ],
