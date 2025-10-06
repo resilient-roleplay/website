@@ -20,6 +20,6 @@ features:
   - title: <a target="_source" href="https://store.resilientrp.net">Store</a>
     details: Visit our store to see what options we have to expand on your Roleplay. 
   - title: <a target="_source" href="https://apply.resilientrp.net">Whitelist Applications</a>
-    details: Apply for staff to help contribute to storylines and the servers health.
-  - title: <a target="_source" href="https://apply.resilientrp.net">Staff Applications</a>
     details: Apply for whitelist to get in and enjoy everything Resilient Roleplay has to offer.
+  - title: <a target="_source" href="https://forms.gle/aGLw2pSSdNVbuC3BA">Staff Applications</a>
+    details: Apply for staff to help contribute to storylines and the servers health.
