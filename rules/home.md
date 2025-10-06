@@ -147,6 +147,18 @@ False harassment claims to avoid IC consequences will result in discipline.
 - Standard conflict limit: **5v5**
 - Police limits follow departmental SOPs.
 
+## Crime Timer
+- No major crimes may be initiated **30 minutes before** a scheduled server reset and **30 minutes after** the server reset.
+This applies to any crime action that would trigger a large police response or a large-scale dynamic event.
+- Petty crimes and small-scale activity that do not require emergency response (e.g., low-level petty crimes, minor fights, small sell transactions).
+
+**Prohibited during timer (examples):**
+- Heists 
+- High-tier boosts / organized car theft
+- Large-scale armed robberies or shootouts
+- Kidnappings / abductions that require coordinated police/EMS response
+- Mass vehicle chases, blockades, or ambushes meant to cause city-wide disruption
+
 ### Endless Conflict
 - Conflicts should have development and closure.  
   Constant retaliation without story progression is griefing.
