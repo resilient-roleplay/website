@@ -30,7 +30,7 @@ Every system, rule, and guideline exists to give you freedom, not limit it.
 ### Feedback and Accountability
 - Honest feedback is welcome.  
 - Personal attacks, public harassment, or targeted negativity are not.  
-- Reports involving staff are reviewed independently to ensure fairness.
+- Reports involving staff are reviewed independently by different staff members to ensure fairness.
 
 ### Adult Community
 - Resilient RP is **18+ only.**  
@@ -44,14 +44,9 @@ Every system, rule, and guideline exists to give you freedom, not limit it.
 - Alternate accounts must be disclosed to staff.  
 - Using alts to evade bans or spy on community spaces is a permanent ban.
 
-### Naming and Profiles
-- Character names, usernames, and profiles must follow community standards.  
-- No impersonation, troll names, or sexual or offensive content.
-
 ### Leave Drama at the Door
 - You do not have to like everyone, but you must act respectfully.  
 - Persistent OOC drama, negativity, or toxicity will not be tolerated.
-
 
 ## Character Rules
 
@@ -89,7 +84,8 @@ Every system, rule, and guideline exists to give you freedom, not limit it.
   - Duping money or items  
   - Abusing emotes or animations in combat  
   - Combat logging or disconnecting to avoid arrest or injury  
-  - Using respawn to skip medical or police roleplay  
+  - Using respawn to skip medical or police roleplay
+  - AFK Farming things or using Macros
 - Modifying your game to gain a combat advantage is not allowed, including recoil reduction, PvP sound packs, or visual alterations.
 
 ### Combat Logging
@@ -112,6 +108,7 @@ Every system, rule, and guideline exists to give you freedom, not limit it.
 - You may not use, repeat, or act on any information gained from a live stream or VOD.  
 - Being in a live stream chat while your character is in the server is considered metagaming.  
 - Using Twitch clips or OOC chat logs to hunt or expose players is not permitted.
+  
 ### Powergaming
 
 Powergaming is when a player forces an outcome, removes another player’s ability to react, or performs actions that ignore realism and fair roleplay.  
@@ -220,13 +217,17 @@ If you’re using your car like a gun, it’s VDM.
 ## Government and Allowlisted Roles
 
 - Use your position responsibly and fairly.  
-- Power without RP justification is Fail RP.  
 - Police, EMS, and government employees must remain professional and consistent.   
-- Sharing information between government and criminal roles is not allowed.  
+- Sharing information between your government and criminal character(s) is not allowed.
 - Selling or gifting government gear, weapons, or vehicles is prohibited.  
 - Misuse of rank or permissions may result in removal or ban.
 
-
+## Corruption Roleplay
+- Corruption RP must be realistic and believable, a ticket should be opened to discuss larger scale corruption storylines.  
+- You must accept the consequences if caught.  
+- Excessive or unapproved corruption will be stopped by staff.  
+- Open a ticket if you are unsure.
+  
 ## Conflict and Crime Rules
 
 ### Crime Conduct
@@ -257,7 +258,7 @@ If you’re using your car like a gun, it’s VDM.
 ## Crime Timer
 - No major crimes may be initiated **30 minutes before** a scheduled server reset and **30 minutes after** the server reset.
 This applies to any crime action that would trigger a large police response or a large-scale dynamic event.
-- Petty crimes and small-scale activity that do not require emergency response (e.g., low-level petty crimes, minor fights, small sell transactions).
+- Petty crimes and small-scale activity that do not require emergency response (e.g., low-level petty crimes, minor fights, small sell transactions) may happen during the 30 minute window.
 
 **Prohibited during timer (examples):**
 - Heists 
@@ -276,10 +277,6 @@ This applies to any crime action that would trigger a large police response or a
 ### Pocket Wiping
 - Only take relevant or valuable items.  
 - Looting for profit or clearing inventories is bannable.
-
-### Storm Crime Timer
-- No major crimes 30 minutes before or after a reset.  
-- Petty crimes (e.g., small thefts, house robberies) are allowed.
 
 ## Vehicle and Pursuit Rules 
 - No off-road abuse or mountain climbing in street cars.  
@@ -337,12 +334,6 @@ Green Zones are safe areas where hostile or criminal actions are prohibited.
 - Graphic torture or gore requires consent.  
 - Avoid real-world tragedies or trauma RP unless pre-approved.
 
-## Corruption Roleplay
-- Corruption RP must be realistic and believable.  
-- You must accept the consequences if caught.  
-- Excessive or unapproved corruption will be stopped by staff.  
-- Open a ticket if you are unsure.
-
 ## Reports, Appeals, and Enforcement
 - Rules are enforced based on **intent, context, and impact**, not loopholes.  
 - Genuine mistakes lead to education, not punishment.  
@@ -357,14 +348,6 @@ Green Zones are safe areas where hostile or criminal actions are prohibited.
 - Screenshots or cropped videos are not valid primary evidence.  
 - If either side’s audio is missing, the report will be closed.  
 - False or spammed tickets may lead to restrictions.
-
-
-## Miscellaneous
-- Do not block NPCs, stores, or spawns.  
-- AFK farming or macroing is prohibited.  
-- Avoid loud or copyrighted audio in public.  
-- Do not spam emotes or interrupt RP scenes.  
-- Respect event zones and ongoing storylines.
 
 
 ## Final Notes
