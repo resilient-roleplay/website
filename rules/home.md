@@ -1,212 +1,370 @@
 # Resilient RP Rulebook
-
 ## Built by the Players, for the Players
-
-Resilient RP was created to give players something real a city that feels alive, unpredictable, and shaped by the stories we build together.  
-Every win, loss, and mistake should add to the experience not take away from it.
+Resilient RP was created to give players something real: a city that feels alive, unpredictable, and shaped by the stories we build together.  
+Every win, loss, and mistake should add to the experience, not take away from it.
 
 This community thrives on creativity, fairness, and respect.  
-We don’t believe in punishing people for losing a shootout or a chase.  
-We believe in rewarding great roleplay, collaboration, and effort.  
+We do not believe in punishing people for losing a shootout or a chase.  
+We believe in rewarding great roleplay, collaboration, and effort.
 
 Our staff team exists to **protect the experience**, not control it.  
 We act when someone’s actions break immersion, harm others, or take away from the fun.  
-The goal is simple keep the world fair, immersive, and player-driven.
+The goal is simple: keep the world fair, immersive, and player-driven.
+
 At its core, **Resilient RP is built by the players, for the players.**  
-Every system, rule, and guideline exists to give you freedom not limit it.
+Every system, rule, and guideline exists to give you freedom, not limit it.
 
 ## Community Standards
-
-### Respect & Conduct
-- Treat everyone with respect — in and out of character.  
-  This includes players, staff, and the wider community.
+### Respect and Conduct
+- Treat everyone with respect, both in and out of character.  
 - Discrimination, hate speech, or bigotry of any kind is never acceptable.  
-  “It’s just RP” is **not** an excuse.
+  "It’s just RP" is **not** an excuse.  
 - Harassment, stalking, threats, or targeted bullying on any platform will lead to removal.
 
 ### Off-Server Behavior
-- What happens outside the city can still impact it.  
-  Harassment, doxxing, or smear campaigns that create a hostile environment will be acted on.
-- We don’t mediate personal disagreements, but we will protect the safety and trust of our players.
-- No advertisement of other servers within Resilient RP chats, discords, or within the server.
+- What happens outside the city can still affect it.  
+- Harassment, doxxing, or smear campaigns that create a hostile environment will be acted on.  
+- We do not mediate personal disagreements, but we will protect player safety and trust.  
+- Advertising other servers or communities within Resilient RP spaces is prohibited.
 
-### Feedback & Accountability
-- Honest feedback is encouraged.  
-  Personal attacks, public harassment, or targeted negativity are not.
+### Feedback and Accountability
+- Honest feedback is welcome.  
+- Personal attacks, public harassment, or targeted negativity are not.  
 - Reports involving staff are reviewed independently to ensure fairness.
 
 ### Adult Community
 - Resilient RP is **18+ only.**  
-  Mature conversations and themes are fine — harassment and discomfort are not.
+- Mature topics and conversations are fine, but harassment or explicit content are not.
 
-### Appeals & Disputes
-- If you’re banned, you can appeal through our ticket system.  
-  A separate staff member will handle your case for transparency.
+### Appeals and Disputes
+- If you are banned, you may appeal through our ticket system.  
+- Appeals are handled by a staff member who was not involved in the original decision.
 
-### Alts & Ban Evasion
-- Alternate accounts must be disclosed.  
-  Evading punishments or spying through alts is a permanent ban.
+### Alternate Accounts and Ban Evasion
+- Alternate accounts must be disclosed to staff.  
+- Using alts to evade bans or spy on community spaces is a permanent ban.
 
-### Naming & Profiles
-- Character names, usernames, and profile content must follow community standards.  
-  No impersonation, sexual, or troll-based content anywhere in our ecosystem.
+### Naming and Profiles
+- Character names, usernames, and profiles must follow community standards.  
+- No impersonation, troll names, or sexual or offensive content.
 
 ### Leave Drama at the Door
-- You don’t have to like everyone, but you do have to act like an adult.  
-  Constant negativity, OOC conflict, or drama will not be tolerated.
+- You do not have to like everyone, but you must act respectfully.  
+- Persistent OOC drama, negativity, or toxicity will not be tolerated.
+
+
+## Character Rules
+
+- Characters must have realistic names and backstories that fit the world.  
+- You may play multiple characters, but they **cannot** share information or resources.  
+- Money, property, or items cannot be transferred between your characters or through third parties.  
+- Avoid supernatural or unrealistic character concepts.  
+- If a character is permanently killed, all associated assets and connections end with them.
+
 
 ## In-Game Conduct
 
 ### Roleplay First
-- Always remain in character while in the city.  
-  Every scene civilian, criminal, or law enforcement should contribute to the story and immersion.
-- If someone offers you RP, reciprocate.  
-  Grinding, crafting, or ignoring interaction breaks the purpose of the city.
-- Everyone shares responsibility for building good scenes.
+- Stay in character at all times.  
+- Every scene should add to the story and immersion.  
+- If someone offers you roleplay, respond and engage.  
+- Everyone shares responsibility for creating great scenes.
 
 ### In-Game Harassment
-- Conflict is part of RP. Harassment is not.  
-  Using RP to target someone OOCly is unacceptable.
+- Conflict is part of roleplay. Harassment is not.  
+- Using RP to target someone out of character is unacceptable.  
 - Harassment includes:
-  - Repeatedly inserting into another player’s story without purpose.  
-  - Using multiple characters to provoke or follow the same player.  
-  - Ignoring boundaries or clear attempts to disengage.
-
-Staff assess intent, pattern, and respect for boundaries when handling reports.  
-False harassment claims to avoid IC consequences will result in discipline.
+  - Repeatedly inserting into another player’s story without reason  
+  - Using multiple characters to provoke or follow the same person  
+  - Ignoring clear attempts to disengage or boundaries set by others  
 
 ### Breaking Character
-- Don’t break character mid-scene.  
-  Avoid saying “RDM,” “FailRP,” or similar OOC phrases.  
-  Handle reports afterward unless it involves hate speech or explicit content.
+- Do not break character mid-scene.  
+- Avoid saying "RDM," "FailRP," or similar phrases in character.  
+- Report issues afterward unless they involve hate speech or sexual content.
 
-### Exploiting & Glitch Abuse
-- Don’t abuse bugs, loopholes, or unintended mechanics. Report them immediately.
-- Exploit examples:
-  - Duplicating items or money.
-  - Animation or emote abuse in combat.
-  - Logging out to avoid arrest or death (combat logging).
-  - Using respawn mechanics to skip police or medical RP.
-- Use of any game modification that changes the functionality of your game is not permitted to be used: including PVP sound packs, no recoil, no shadows.
+### Exploiting and Glitch Abuse
+- Do not exploit bugs or mechanics. Report them immediately.  
+- Examples include:
+  - Duping money or items  
+  - Abusing emotes or animations in combat  
+  - Combat logging or disconnecting to avoid arrest or injury  
+  - Using respawn to skip medical or police roleplay  
+- Modifying your game to gain a combat advantage is not allowed, including recoil reduction, PvP sound packs, or visual alterations.
+
+### Combat Logging
+- Disconnecting, force-closing your game, or intentionally crashing to avoid RP or consequences is considered **combat logging**.  
+- You must return to the server and resume the situation if it is still ongoing.  
+- If you crash mid-scene, notify the involved players or staff immediately via Discord ticket or direct message.
 
 ### Value of Life (NVL)
-- Always act as though your character values their life and relationships.  
-  Charging into armed situations or ignoring danger is NVL unless you plan permanent consequences.
+- Act as if your character values their own life.  
+- Ignoring armed threats or rushing death situations is NVL unless it is part of a permanent character decision.
 
 ### Metagaming
-- Do not use OOC information in character.  
-  This includes Discord messages, streams, or off-server chats.
-- Don’t communicate about in-character events through 3rd-party voice apps while in the server.
-- Do not watch or use live streams to gain information in-character.
+- Do not use out-of-character information in character.  
+- This includes Discord calls, DMs, or live streams.  
+- You may not be in any stream that is streaming Resilient RP while on the server.  
+- You may not coordinate roleplay or crime through third-party applications while in the city.
 
+### Stream Sniping
+- Watching or interacting with live streams of players currently in the city is strictly prohibited.  
+- You may not use, repeat, or act on any information gained from a live stream or VOD.  
+- Being in a live stream chat while your character is in the server is considered metagaming.  
+- Using Twitch clips or OOC chat logs to hunt or expose players is not permitted.
 ### Powergaming
-- Do not force outcomes or deny players agency.  
-  Example:  
-  ❌ `/me slits throat and leaves`  
-  ✅ `/me raises the knife, attempting to harm them`
-- You can control your actions, not the result.
+
+Powergaming is when a player forces an outcome, removes another player’s ability to react, or performs actions that ignore realism and fair roleplay.  
+It makes RP one-sided and breaks immersion by taking control away from others.
+
+**Examples of Powergaming:**
+
+- Using /me or /do commands to force success instead of describing an attempt.  
+  - ❌ `/me knocks you out and steals your gun`  
+  - ✅ `/me swings toward your head attempting to knock you down`
+- Forcing another player into an action without giving them a chance to respond.  
+- Refusing to acknowledge injuries, restraints, or realistic limitations (e.g., running after being shot multiple times).  
+- Using unrealistic mechanics to gain an advantage (e.g., jumping or rolling to dodge bullets).  
+- Looting or moving a player before any RP interaction or communication occurs.  
+- Forcing someone to comply with actions through “one-line” RP (no conversation, no buildup).  
+- Using emotes to bypass game systems or force combat advantages.  
+- Robbing or kidnapping someone with zero RP or context (“hands up, give money” with no dialogue).  
+- Forcing someone into permanent or major consequences (e.g., injury, loss of items, or death) without their consent or staff approval.  
+- Forcing another player to break rules or act against their character.
+
+**Not Powergaming:**
+
+- A player suffering real in-character consequences from repeated choices or actions (e.g., betrayal, theft, retaliation).  
+- Using clever in-character tactics, deception, or strategy as long as other players are given a fair chance to respond.  
+- Taking initiative or acting decisively in-character when the situation makes sense.
+
+Staff will review each case based on **intent, fairness, and RP quality**.  
+If your actions remove another player’s ability to contribute meaningfully to the scene, it’s powergaming.
 
 ### Fail RP
-- Your character should act and look believable within the city world.  
-  Trolling, meme outfits, or low-effort RP are not allowed.  
 
-### Copyrighted Music
-- Avoid playing copyrighted music in public spaces to protect streamers.
+Fail RP is any action that breaks immersion, ignores realism, or disregards logical roleplay behavior.  
+Every player is responsible for keeping the world believable and consistent.
 
-### Server Events
-- Do not interrupt or grief city-wide events unless cleared by staff.  
-  Events take planning — respect the effort that goes into them.
+**Examples of Fail RP include:**
 
-## Government & Allowlisted Roles
+- Wearing troll, meme, or immersion-breaking outfits.  
+- Using vehicles or props in unrealistic ways.  
+- Speaking or acting out of character during roleplay scenes.  
+- Refusing to respond to RP or ignoring police or civilian interactions without reason.  
+- Claiming to have superpowers, invulnerability, or unrealistic knowledge.  
+- Logging out or forcing a crash to avoid arrest, combat, or consequences.  
+- Running back into a scene after respawning.  
+- Talking about real servers, streamers, or OOC topics in character.  
+- Ignoring fear, injury, or logic for convenience.  
+- Using emotes or animations to avoid tasers, cuffs, or gunfire.  
+- Creating or escalating fights with no RP reason.  
+- Using medical or police roles to troll or stall RP.  
+- Calling out "RDM," "VDM," or "FailRP" in character.  
+- Pretending not to hear or see other players to avoid RP.
 
-- Government roles must use authority fairly. 
-- Repeatedly targeting groups or individuals OOCly is prohibited.  
-- Don’t sabotage departments because of OOC disagreements.
-- Selling, trading, or giving away job-exclusive items (e.g., PD gear, medical tools) is forbidden (unless cleared by staff).
-- If unsure whether your RP idea is appropriate, open a ticket and ask.
-
-## Conflict & Crime Rules
-
-### Roleplay Over Gunplay
-- Escalate through dialogue and choices before violence.  
-  Shootouts should feel earned and story-driven — not random.
+Staff will judge Fail RP based on **intent, pattern, and context**.  
+If it breaks immersion or ruins RP for others, it counts.
 
 ### Random Deathmatching (RDM)
-- You must give proper initiation and roleplay context before any attack.
+RDM means attacking, shooting, or killing another player without proper in-character reasoning or meaningful roleplay buildup.  
+Every act of violence in the city must have clear context, escalation, and intent.
+
+**Examples of RDM:**
+
+- Killing someone because of a small argument or bump.  
+- Shooting first without allowing the other party to respond.  
+- Attacking players randomly in public with no story or reason.  
+- Using robbery or hostage RP to justify unnecessary killing.  
+- Retaliating for past events with no new interaction.  
+- Ambushing players or police just to “create content.”
+
+**Not RDM:**
+
+- Defending yourself or others during clear, escalating RP.  
+- Killing as part of a planned story, retaliation, or organized event with justification.  
+- Responding to an active threat or someone who initiated violence.
+
+If your gunfire replaces dialogue, it’s RDM.
+
 
 ### Vehicle Deathmatching (VDM)
-- Vehicles may only be used as weapons when there’s no other escape option.
 
-### Camping & Ambushes
-- Don’t camp exits, teleport points, or interiors where players have no counterplay.
+VDM means using your vehicle as a weapon without RP justification or realistic intent.
+
+**Examples of VDM:**
+
+- Running players over intentionally without RP.  
+- Using a car to kill during an argument.  
+- Driving through crowds for fun.  
+- Ramming another vehicle outside an active chase.  
+- Using your car to gain combat advantage or prevent escape.  
+- Using large vehicles to wipe out groups.
+
+**Not VDM:**
+- Accidental hits in a chase.  
+- Light vehicle contact to block or push during RP.  
+- Using a vehicle to escape danger realistically.
+
+Intent and realism matter.  
+If you’re using your car like a gun, it’s VDM.
+
+### Copyrighted Music
+- Avoid playing copyrighted songs in public areas to protect streamers.
+
+### Server Events
+- Do not interrupt or troll server-wide or staff-hosted events without prior approval.  
+- This includes concerts, political events, funerals, or major storylines.  
+- Events require significant staff effort - disruption without approval is Fail RP.
+
+## Government and Allowlisted Roles
+
+- Use your position responsibly and fairly.  
+- Power without RP justification is Fail RP.  
+- Police, EMS, and government employees must remain professional and consistent.   
+- Sharing information between government and criminal roles is not allowed.  
+- Selling or gifting government gear, weapons, or vehicles is prohibited.  
+- Misuse of rank or permissions may result in removal or ban.
+
+
+## Conflict and Crime Rules
+
+### Crime Conduct
+- Criminal RP must have story intent.  
+- Give victims a fair chance to comply.  
+- Only take items that make sense for the scene.  
+- Torture or extreme violence without consent is not allowed.
+
+### Scamming and Theft RP
+- Scams must be story-driven and have RP buildup.  
+- Scamming new players or abusing mechanics for profit is prohibited.  
+- All scams must stay in-character; OOC deception is not allowed.
+
+### Roleplay Over Gunplay
+- Escalate through RP before violence.  
+- Shootouts should feel earned, not random.
+
+### Camping and Ambushes
+- Do not camp teleport exits, elevators, or interiors that give no counterplay.
 
 ### Consent-Based RP
-- Any extreme or sensitive content (e.g., torture, pregnancy, dismemberment) requires explicit consent from everyone involved.
+- All graphic or sensitive scenes require clear consent from every participant.
 
 ### Conflict Numbers
-- Standard conflict limit: **5v5**
-- Police limits follow departmental SOPs.
+- Standard limit: 5 v 5.  
+- Law enforcement follows departmental SOPs.
 
 ### Endless Conflict
-- Conflicts should have development and closure.  
-  Constant retaliation without story progression is griefing.
+- Feuds must progress and resolve naturally.  
+- Constant retaliation with no story growth is griefing.
 
 ### Conflict Cooldown
-- Allow breathing room between major fights, there should be a minimum of 30 minutes between conflicts. 
+- Wait at least 30 minutes between conflict engagements (5v5, gang situations, police fights, etc).
 
 ### Pocket Wiping
-- Take only what has value or story relevance (cash, weapons, contraband).  
-  Clearing full inventories without reason is bannable.  
-  Mid-fight looting for survival is fine — farming is not.
+- Only take relevant or valuable items.  
+- Looting for profit or clearing inventories is bannable.
 
-## Injury, Death & Medical RP
+### Storm Crime Timer
+- No major crimes 30 minutes before or after a reset.  
+- Petty crimes (e.g., small thefts, house robberies) are allowed.
+
+## Vehicle and Pursuit Rules 
+- No off-road abuse or mountain climbing in street cars.  
+- Do not use vehicles as weapons.
+- No vehicle surfing or unrealistic stunts.  
+- Avoid camping garages, impounds, or chop shops.  
+- Pursuits must have proper escalation and RP purpose.
+
+## Green Zones
+Green Zones are safe areas where hostile or criminal actions are prohibited.
+
+**Official Green Zones:**  
+- Public Apartments and interiors  
+- Hospitals and medical facilities  
+
+**Rules Inside Green Zones:**
+- No robberies, kidnappings, or violence.  
+- No weapon displays or baiting conflict.  
+- Do not camp entrances or exits.  
+- Do not use Green Zones to hide or evade consequences.
+
+## Business and Civilian Rules
+- Businesses exist to create RP, not passive profit.  
+- Employees must engage with others and remain active.  
+- Business owners abusing power or hoarding resources risk removal.  
+- Keep all conflicts in character and free of OOC hostility.
+
+## Communication and Voice Rules
+- Always use in-character voice during RP.  
+- OOC talk must be clearly marked with "(OOC)".  
+- Stay connected to in-city voice while playing.  
+- Voice changers are allowed if clear and fitting for your character.
+
+## Injury, Death, and Medical RP
 
 ### While Downed
-- You are **injured, not dead.**  
-  Stay in character — no OOC trash talk.  
-  Treat injury scenes as part of your story.
+- Being downed means you are injured, not dead. Act out your injuries, they are part of your storyline.
+- Stay in character; no OOC talk or trash talk.
 
 ### New Life Rule (NLR)
-- If executed in an RP scene:
-  - You forget identifying details (names, voices, tattoos, etc.).
-  - You may not remember anything 30 minutes prior to you getting back on your feet.
-- Treat it as a hazy memory — if they wanted you to remember, they’d have left you alive.
+- If executed, forget identifying details (names, voices, etc.).  
+- You may not recall events from the 30 minutes before your death.
+- You may lead law enforcement to the last location you remember, etc.
 
 ### Ocean Dumping
-- Dumping a body is valid RP if it serves a story — not to erase evidence or force permadeath.
-- Victims may still direct police to where they were originally injured.
-- Dumping vehicles or people without RP justification is fail RP.
+- Dumping bodies is fine for story reasons, not to erase evidence.  
+- Victims can direct police to their last known area.  
+- Dumping vehicles or people without RP is Fail RP.
+
 ### Mental Health RP
-- All serious Mental Health RP requires staff approval
+- Serious mental health or trauma RP requires prior staff approval.
 
-## Restricted & Sensitive Topics
-
-### No Erotic Roleplay
-- Explicit sexual RP is not allowed anywhere — voice, text, or emotes.
-
-### No Graphic Torture or Gore
-- Avoid detailed or extreme violence unless all participants consent.
-
-### No Real-World Tragedy RP
-- Do not base stories on real-life trauma or disasters.  
-  Topics like suicide, pandemics, or school shootings are off-limits unless explicitly approved by staff and handled responsibly.
+## Restricted and Sensitive Topics
+- Erotic RP is strictly prohibited.  
+- Graphic torture or gore requires consent.  
+- Avoid real-world tragedies or trauma RP unless pre-approved.
 
 ## Corruption Roleplay
+- Corruption RP must be realistic and believable.  
+- You must accept the consequences if caught.  
+- Excessive or unapproved corruption will be stopped by staff.  
+- Open a ticket if you are unsure.
 
-- Corruption RP must remain **grounded and believable**.  
-- Abuse of power for personal gain without consequence is not allowed.
-- If you engage in corruption, accept that it may lead to investigation, arrest, or removal from your role.
-- When in doubt, open a ticket.
+## Reports, Appeals, and Enforcement
+- Rules are enforced based on **intent, context, and impact**, not loopholes.  
+- Genuine mistakes lead to education, not punishment.  
+- Repeated or malicious actions result in removal.  
+- Staff decisions are based on protecting RP and fairness.  
+- Reports must include evidence and context.  
+- Spam or false reports may result in restrictions.
 
-## Enforcement & Expectations
-- Rules are enforced based on **intent, context, and community impact**, not technical loopholes.  
-- Mistakes happen, genuine mistakes often lead to coaching, not punishment.
-- Repeat, malicious, or community-harming behavior will result in permanent removal.
-- Staff decisions are guided by one principle: **protecting player-driven RP**.
+### Tickets and Evidence
+- All reports must include **a minimum 2-minute clip with both sides’ full audio**.  
+- Clips must begin before the incident occurs.  
+- Screenshots or cropped videos are not valid primary evidence.  
+- If either side’s audio is missing, the report will be closed.  
+- False or spammed tickets may lead to restrictions.
+
+
+## Miscellaneous
+- Do not block NPCs, stores, or spawns.  
+- AFK farming or macroing is prohibited.  
+- Avoid loud or copyrighted audio in public.  
+- Do not spam emotes or interrupt RP scenes.  
+- Respect event zones and ongoing storylines.
+
 
 ## Final Notes
-Resilient RP is a world built on collaboration, creativity, and respect.  
-Every rule here exists to make sure your story — and everyone else’s — can thrive.  
-Stay true to the spirit of RP, value the people you share scenes with, and help us keep the city vibrant, fair, and fun.
+
+Resilient RP is built on collaboration, creativity, and respect.  
+Every rule exists to make sure your story, and everyone else’s, can thrive.  
+Stay true to roleplay, value your fellow players, and help keep the city immersive, fair, and fun.
+Staff make the final call of what is Roleplay over Ruleplay.
 
 **Built by the players. For the players. Always.**
+
+*Rules updated on 06/10/2025*
+
+
+
