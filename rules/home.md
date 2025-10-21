@@ -235,6 +235,7 @@ If you’re using your car like a gun, it’s VDM.
 - Give victims a fair chance to comply.  
 - Only take items that make sense for the scene.  
 - Torture or extreme violence without consent is not allowed.
+- Players conducting heists must wait 10 minutes for PD presence before leaving
 
 ### Scamming and Theft RP
 - Scams must be story-driven and have RP buildup.  
